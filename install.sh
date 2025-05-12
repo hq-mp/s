@@ -13,8 +13,8 @@ REPOSC="https://raw.githubusercontent.com/Garut-SisiBukit/VVIP/main"
 #REPOKEY="https://raw.githubusercontent.com/r/key/main"
 
 # TELEGRAMKU
-CHATID="-1002285656734"
-TOKENBOT="6957152015:AAHe7oyXbCr0qlSTTqn4nvM4Ol2-r6jqpLI"
+CHATID="-7432279779"
+TOKENBOT="7332449337:AAFRxi0cPjPLir90z_cvWxzOb_KXh-F2_fU"
 
 # cek cek vps dulu kak
 cd /root
